@@ -1,0 +1,45 @@
+.header {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ddd;
+}
+
+.header__links {
+  display: flex;
+  gap: 1em;
+}
+
+.header__link {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: green;
+}
+
+.main {
+  margin-top: 1em;
+  padding: 15px;
+  background: #ddd;
+}
+
+.section {
+  background: #eee;
+  padding: 15px;
+}
+
+.section__cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section__card {
+  padding: 15px;
+  border: 1px solid #000;
+}
+
+.footer {
+  margin-top: 1em;
+  padding: 15px;
+  background: #ddd;
+}
