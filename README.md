@@ -16,3 +16,4 @@
 
 ### Содержание курса:
 1. [Урок 1. Создание сайтов для начинающих](https://telegra.ph/Urok-1-Sozdanie-sajtov-dlya-nachinayushchih-04-20)
+2. [Урок 2. Инструменты для создания сайтов](https://telegra.ph/Urok-2-Instrumenty-dlya-sozdaniya-sajtov-04-19)
