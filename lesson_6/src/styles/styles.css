@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Merienda", cursive;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1144px;
+  position: relative;
+}
+
+.header {
+  background: #333;
+  padding: 52px 0;
+}
+
+.header__icon {
+  position: absolute;
+  bottom: 3px;
+}
+
+.nav {
+  display: flex;
+  justify-content: start;
+  gap: 40px;
+  margin-left: 31px;
+}
+
+.nav__link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+}
