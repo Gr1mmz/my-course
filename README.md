@@ -20,3 +20,6 @@
 - [Урок 3. Базовые HTML-теги и разметка страницы. Теория.](https://telegra.ph/Urok-3-Bazovye-HTML-tegi-i-razmetka-stranicy-Teoriya-04-25)
 - [Урок 3. Базовые HTML-теги и разметка страницы. Практика.](https://telegra.ph/Urok-3-Bazovye-HTML-tegi-i-razmetka-stranicy-Praktika-04-27)
 - [Урок 4. Стилизация с помощью CSS. Теория](https://telegra.ph/Urok-4-Stilizaciya-s-pomoshchyu-CSS-Teoriya-04-29)
+- [Урок 4. Стилизация с помощью CSS. Теория](https://telegra.ph/Urok-4-Stilizaciya-s-pomoshchyu-CSS-Teoriya-04-29)
+- [Урок 5. Анализ макета и подготовка проекта](https://telegra.ph/Urok-5-Analiz-maketa-i-podgotovka-proekta-05-04)
+- [Урок 6. Начало верстки. Создание шапки](https://telegra.ph/Urok-6-Nachalo-verstki-Sozdanie-shapki-05-11)
